@@ -17,7 +17,7 @@ Normal message for information.
 import { message, Button } from 'antd';
 
 const info = () => {
-  message.info('This is a normal message');
+  message.info('加载成功');
 };
 
 ReactDOM.render(
